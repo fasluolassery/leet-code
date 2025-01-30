@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/fasluolassery/leet-code/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/fasluolassery/leet-code/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fasluolassery/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/fasluolassery/leet-code/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/fasluolassery/leet-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
