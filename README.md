@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/fasluolassery/leet-code/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/fasluolassery/leet-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [2048-build-array-from-permutation](https://github.com/fasluolassery/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/fasluolassery/leet-code/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -60,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/fasluolassery/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/fasluolassery/leet-code/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
