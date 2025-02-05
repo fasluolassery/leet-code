@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/fasluolassery/leet-code/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/fasluolassery/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fasluolassery/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [2048-build-array-from-permutation](https://github.com/fasluolassery/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/fasluolassery/leet-code/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fasluolassery/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/fasluolassery/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/fasluolassery/leet-code/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fasluolassery/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
