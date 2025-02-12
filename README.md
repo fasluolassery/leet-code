@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/fasluolassery/leet-code/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/fasluolassery/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fasluolassery/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3194-find-words-containing-character](https://github.com/fasluolassery/leet-code/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/fasluolassery/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/fasluolassery/leet-code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fasluolassery/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3194-find-words-containing-character](https://github.com/fasluolassery/leet-code/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fasluolassery/leet-code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fasluolassery/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
