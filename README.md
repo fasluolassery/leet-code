@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/fasluolassery/leet-code/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/fasluolassery/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fasluolassery/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/fasluolassery/leet-code/tree/master/3194-find-words-containing-character) |
 ## Stack
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/fasluolassery/leet-code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/fasluolassery/leet-code/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/fasluolassery/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/fasluolassery/leet-code/tree/master/2058-concatenation-of-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/fasluolassery/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fasluolassery/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Queue
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/fasluolassery/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/fasluolassery/leet-code/tree/master/0136-single-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
