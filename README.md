@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/fasluolassery/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/fasluolassery/leet-code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fasluolassery/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/fasluolassery/leet-code/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/fasluolassery/leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/fasluolassery/leet-code/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fasluolassery/leet-code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/fasluolassery/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/fasluolassery/leet-code/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fasluolassery/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Queue
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/fasluolassery/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/fasluolassery/leet-code/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Binary Search
 |  |
 | ------- |
