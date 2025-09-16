@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fasluolassery/leet-code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/fasluolassery/leet-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/fasluolassery/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/fasluolassery/leet-code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fasluolassery/leet-code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/fasluolassery/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/fasluolassery/leet-code/tree/master/2421-maximum-number-of-pairs-in-array) |
