@@ -17,11 +17,7 @@ var romanToInt = function(s) {
 
     for(let i = 0; i < s.length; i++){
         if(obj[s[i]] < obj[s[i + 1]]){
-            let val = obj[s[i + 1]] - obj[s[i]]
-            if(val) {
-                sum += val
-                i++
-            }
+            sum -= obj[s[i]]
         }else{
             sum += obj[s[i]]
         }
