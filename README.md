@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fasluolassery/leet-code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/fasluolassery/leet-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [1168-duplicate-zeros](https://github.com/fasluolassery/leet-code/tree/master/1168-duplicate-zeros) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/fasluolassery/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/fasluolassery/leet-code/tree/master/1580-shuffle-the-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/fasluolassery/leet-code/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/fasluolassery/leet-code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/fasluolassery/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [1168-duplicate-zeros](https://github.com/fasluolassery/leet-code/tree/master/1168-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
