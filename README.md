@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/fasluolassery/leet-code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/fasluolassery/leet-code/tree/master/0069-sqrtx) |
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
+| [2544-alternating-digit-sum](https://github.com/fasluolassery/leet-code/tree/master/2544-alternating-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fasluolassery/leet-code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fasluolassery/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
