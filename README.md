@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/fasluolassery/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fasluolassery/leet-code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/fasluolassery/leet-code/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/fasluolassery/leet-code/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
