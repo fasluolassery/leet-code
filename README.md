@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/fasluolassery/leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/fasluolassery/leet-code/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/fasluolassery/leet-code/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/fasluolassery/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3194-find-words-containing-character](https://github.com/fasluolassery/leet-code/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fasluolassery/leet-code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fasluolassery/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/fasluolassery/leet-code/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/fasluolassery/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fasluolassery/leet-code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Queue
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/fasluolassery/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/fasluolassery/leet-code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/fasluolassery/leet-code/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/fasluolassery/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
